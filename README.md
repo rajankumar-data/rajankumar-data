@@ -35,7 +35,7 @@ To start my career as a Data Analyst and use data to generate actionable busines
 
 ### 📫 Connect With Me
 
-* **LinkedIn:** www.linkedin.com/in/rajan-kumar-222851403
+* **LinkedIn:** www.linkedin.com/in/rajankumar-data
 * **Email:** rajandr1997@gmail.com
 
 <!--
