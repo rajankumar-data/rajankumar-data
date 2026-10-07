@@ -17,12 +17,12 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 
 * ### 📂 Projects
 
-* 🏥 Healthcare Data Analysis Dashboard
-* 📈 Sales Data Analysis
-* 📊 Power BI Business Dashboard
-* 🧹 Data Cleaning & Transformation
-* 🗃️ SQL Data Analysis Projects
-* 🐍 Python Data Analysis Projects
+  * 🏥 **Healthcare Data Analysis Dashboard**
+
+  * Excel-based analysis of 10,000 US patient records
+  * Data cleaning, Pivot Tables, data analysis and dashboard creation
+  * Analysis of medical conditions, billing, hospital admissions and length of stay
+
 
 ### 🎯 Career Objective
 
