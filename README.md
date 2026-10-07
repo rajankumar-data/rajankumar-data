@@ -15,8 +15,10 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 
 ### 📂 Projects
 
+* ### 📂 Projects
+
+* 🏥 Healthcare Data Analysis Dashboard
 * 📈 Sales Data Analysis
-* 👥 Customer Data Analysis
 * 📊 Power BI Business Dashboard
 * 🧹 Data Cleaning & Transformation
 * 🗃️ SQL Data Analysis Projects
